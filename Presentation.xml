@@ -11,9 +11,9 @@ Understanding how and when to deploy SQL Server within Windows Azure Virtual Mac
   </Description>
   <Document RemoveSpeakerNotes="true">.\DeployingSQLOnVMs.pptx</Document>
   <Title>Windows Azure Migrating SQL Server Workloads</Title>
-  <Version>1.0.0</Version>
+  <Version>1.0.1</Version>
   <SlideThumbnail>1</SlideThumbnail>
   <CustomProperties>
-     <Property Name="Filter" Value="Foundation" />
+    <Property Name="Filter" Value="Foundation" />
   </CustomProperties>
 </Presentation>
